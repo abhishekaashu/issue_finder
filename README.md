@@ -55,4 +55,14 @@ To get a local copy up and running follow these simple steps.
    flutter run
    ```
    
+## steps to app walkthrough
+```sh
+1. To try search issue, type in the keyword and press the search button
+```
+```sh
+2. To try filters press the icon in top right corner and select accordingly. After choosing filters again press search button in the main screen to get updated results
+```
+```sh
+3. To filter by author type the author name in the filters menu   
+```  
    
