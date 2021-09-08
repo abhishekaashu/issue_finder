@@ -1,4 +1,13 @@
 # Github issues mobile
+<img src="./img/1.jpeg" style="display:inline-block; width:220px;"></img>
+<img src="./img/2.jpeg" style="display:inline-block; width:220px"></img>
+<img src="./img/3.jpeg" style="display:inline-block; width:220px"></img>
+<img src="./img/4.jpeg" style="display:inline-block; width:220px"></img>
+
+
+## About the Project
+This is a hiring assignment for Flutter developer. For demo purpose I have chosen docker compose repo to show its issues search and other filter features. I have used older version of github API which doesn't requires authentication and access token. This same can be acheived using v3 Github API. In the below steps of getting started, you can skip the github access token step.
+Also to note that Github API response are paginated, which means that to get more results we have to constantly increase last part of the endpoint to hit. For demo purpose, I haven't implemented the paginated version but can be done with some additions to the code.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -45,3 +54,5 @@ To get a local copy up and running follow these simple steps.
    ```sh
    flutter run
    ```
+   
+   
