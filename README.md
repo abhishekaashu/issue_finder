@@ -1,8 +1,8 @@
 # Github issues mobile
-<img src="./img/1.jpeg" style="display:inline-block; width:220px;"></img>
-<img src="./img/2.jpeg" style="display:inline-block; width:220px"></img>
-<img src="./img/3.jpeg" style="display:inline-block; width:220px"></img>
-<img src="./img/4.jpeg" style="display:inline-block; width:220px"></img>
+<img src="./img/1.jpeg" style="display:inline-block; width:250px;"></img>
+<img src="./img/2.jpeg" style="display:inline-block; width:250px"></img>
+<img src="./img/3.jpeg" style="display:inline-block; width:250px"></img>
+<img src="./img/4.jpeg" style="display:inline-block; width:250px"></img>
 
 
 ## About the Project
