@@ -1,0 +1,272 @@
+[
+    {
+      "id": 255290093,
+      "node_id": "MDU6TGFiZWwyNTUyOTAwOTM=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/build",
+      "name": "area/build",
+      "color": "c7def8",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 398368585,
+      "node_id": "MDU6TGFiZWwzOTgzNjg1ODU=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/bundle",
+      "name": "area/bundle",
+      "color": "c5def5",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 255290150,
+      "node_id": "MDU6TGFiZWwyNTUyOTAxNTA=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/cli",
+      "name": "area/cli",
+      "color": "c7def8",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 255290186,
+      "node_id": "MDU6TGFiZWwyNTUyOTAxODY=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/config",
+      "name": "area/config",
+      "color": "c7def8",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 976163064,
+      "node_id": "MDU6TGFiZWw5NzYxNjMwNjQ=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/credentials",
+      "name": "area/credentials",
+      "color": "c5def5",
+      "default": false,
+      "description": ""
+    },
+    {
+      "id": 308280836,
+      "node_id": "MDU6TGFiZWwzMDgyODA4MzY=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/events",
+      "name": "area/events",
+      "color": "c7def8",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 255290236,
+      "node_id": "MDU6TGFiZWwyNTUyOTAyMzY=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/logs",
+      "name": "area/logs",
+      "color": "c7def8",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 279261680,
+      "node_id": "MDU6TGFiZWwyNzkyNjE2ODA=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/networking",
+      "name": "area/networking",
+      "color": "c7def8",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 258011050,
+      "node_id": "MDU6TGFiZWwyNTgwMTEwNTA=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/packaging",
+      "name": "area/packaging",
+      "color": "c7def8",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 255290251,
+      "node_id": "MDU6TGFiZWwyNTUyOTAyNTE=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/run",
+      "name": "area/run",
+      "color": "c7def8",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 255290301,
+      "node_id": "MDU6TGFiZWwyNTUyOTAzMDE=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/scale",
+      "name": "area/scale",
+      "color": "c7def8",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 640922430,
+      "node_id": "MDU6TGFiZWw2NDA5MjI0MzA=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/secrets",
+      "name": "area/secrets",
+      "color": "c5def5",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 255290438,
+      "node_id": "MDU6TGFiZWwyNTUyOTA0Mzg=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/tests",
+      "name": "area/tests",
+      "color": "c7def8",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 255290345,
+      "node_id": "MDU6TGFiZWwyNTUyOTAzNDU=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/up",
+      "name": "area/up",
+      "color": "c7def8",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 256432429,
+      "node_id": "MDU6TGFiZWwyNTY0MzI0Mjk=",
+      "url": "https://api.github.com/repos/docker/compose/labels/area/volumes",
+      "name": "area/volumes",
+      "color": "c7def8",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 342905858,
+      "node_id": "MDU6TGFiZWwzNDI5MDU4NTg=",
+      "url": "https://api.github.com/repos/docker/compose/labels/compose-in-a-container",
+      "name": "compose-in-a-container",
+      "color": "fef2c0",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 199776189,
+      "node_id": "MDU6TGFiZWwxOTk3NzYxODk=",
+      "url": "https://api.github.com/repos/docker/compose/labels/dco/no",
+      "name": "dco/no",
+      "color": "ededed",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 199776929,
+      "node_id": "MDU6TGFiZWwxOTk3NzY5Mjk=",
+      "url": "https://api.github.com/repos/docker/compose/labels/dco/yes",
+      "name": "dco/yes",
+      "color": "ededed",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 1696976211,
+      "node_id": "MDU6TGFiZWwxNjk2OTc2MjEx",
+      "url": "https://api.github.com/repos/docker/compose/labels/dependencies",
+      "name": "dependencies",
+      "color": "0366d6",
+      "default": false,
+      "description": "Pull requests that update a dependency file"
+    },
+    {
+      "id": 3327019107,
+      "node_id": "MDU6TGFiZWwzMzI3MDE5MTA3",
+      "url": "https://api.github.com/repos/docker/compose/labels/Docker%20Compose%20V1",
+      "name": "Docker Compose V1",
+      "color": "FBCA04",
+      "default": false,
+      "description": ""
+    },
+    {
+      "id": 3313137385,
+      "node_id": "MDU6TGFiZWwzMzEzMTM3Mzg1",
+      "url": "https://api.github.com/repos/docker/compose/labels/Docker%20Compose%20V2",
+      "name": "Docker Compose V2",
+      "color": "1D76DB",
+      "default": false,
+      "description": ""
+    },
+    {
+      "id": 441469436,
+      "node_id": "MDU6TGFiZWw0NDE0Njk0MzY=",
+      "url": "https://api.github.com/repos/docker/compose/labels/docker-py",
+      "name": "docker-py",
+      "color": "8d66db",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 69777236,
+      "node_id": "MDU6TGFiZWw2OTc3NzIzNg==",
+      "url": "https://api.github.com/repos/docker/compose/labels/duplicate",
+      "name": "duplicate",
+      "color": "cccccc",
+      "default": true,
+      "description": null
+    },
+    {
+      "id": 190714369,
+      "node_id": "MDU6TGFiZWwxOTA3MTQzNjk=",
+      "url": "https://api.github.com/repos/docker/compose/labels/exp/beginner",
+      "name": "exp/beginner",
+      "color": "fbca04",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 522829600,
+      "node_id": "MDU6TGFiZWw1MjI4Mjk2MDA=",
+      "url": "https://api.github.com/repos/docker/compose/labels/format/v2",
+      "name": "format/v2",
+      "color": "fef2c0",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 522829681,
+      "node_id": "MDU6TGFiZWw1MjI4Mjk2ODE=",
+      "url": "https://api.github.com/repos/docker/compose/labels/format/v3",
+      "name": "format/v3",
+      "color": "fef2c0",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 854209066,
+      "node_id": "MDU6TGFiZWw4NTQyMDkwNjY=",
+      "url": "https://api.github.com/repos/docker/compose/labels/group/needs-engine-feature",
+      "name": "group/needs-engine-feature",
+      "color": "db6420",
+      "default": false,
+      "description": ""
+    },
+    {
+      "id": 345373281,
+      "node_id": "MDU6TGFiZWwzNDUzNzMyODE=",
+      "url": "https://api.github.com/repos/docker/compose/labels/group/windows-client",
+      "name": "group/windows-client",
+      "color": "eb6420",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 345371703,
+      "node_id": "MDU6TGFiZWwzNDUzNzE3MDM=",
+      "url": "https://api.github.com/repos/docker/compose/labels/group/windows-server",
+      "name": "group/windows-server",
+      "color": "eb6420",
+      "default": false,
+      "description": null
+    },
+    {
+      "id": 530971571,
+      "node_id": "MDU6TGFiZWw1MzA5NzE1NzE=",
+      "url": "https://api.github.com/repos/docker/compose/labels/invalid:docker-stack",
+      "name": "invalid:docker-stack",
+      "color": "a1a1a1",
+      "default": false,
+      "description": null
+    }
+  ]
